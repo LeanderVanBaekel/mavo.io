@@ -21,13 +21,13 @@
 			"image": "http://theworstthingsforsale.com/wp-content/uploads/2018/05/edible-spoon-maker.jpg"
 		},
 		{
+			"name": "Test",
+			"amount": "1123"
+		},
+		{
 			"name": "Wearable Chair",
 			"amount": 989,
 			"image": "http://theworstthingsforsale.com/wp-content/uploads/2018/05/wearable-chair.jpg"
-		},
-		{
-			"name": "Test",
-			"amount": "11.23"
 		}
 	]
 }
